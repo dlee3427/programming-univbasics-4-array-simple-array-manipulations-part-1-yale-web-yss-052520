@@ -19,6 +19,4 @@ def pop_with_args(dog_breeds)
   dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   array1 = dog_breeds.pop(3)
   array2 = dog_breeds.pop(4)
-  p array1
-  p array2
 end 
