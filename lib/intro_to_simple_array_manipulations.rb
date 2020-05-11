@@ -11,7 +11,7 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
 end 
 
 def using_pop(bouroughs_in_nyc)
-  bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
-  bouroughs_in_nyc.pop
+  continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"
+  continents.pop
 end 
   
