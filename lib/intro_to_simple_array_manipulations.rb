@@ -11,6 +11,7 @@ def using_pop(continents)
 end 
 
 def using_shift()
-
+  p dog_breeds.pop()
+  p dog_breeds.pop
 
 
