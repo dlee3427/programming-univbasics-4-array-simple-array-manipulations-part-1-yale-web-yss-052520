@@ -17,3 +17,5 @@ end
 def using_shift(my_favorite_cities)
   p my_favorite_cities.shift
 end
+
+shift_with_args()
