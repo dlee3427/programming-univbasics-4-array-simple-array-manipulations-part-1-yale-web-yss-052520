@@ -15,4 +15,5 @@ def pop_with_args(dog_breeds)
 end 
 
 def using_shift
-  p 
+  p my_favorite_cities.shift
+end
