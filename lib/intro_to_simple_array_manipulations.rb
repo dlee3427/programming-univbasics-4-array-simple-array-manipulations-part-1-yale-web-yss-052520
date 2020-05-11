@@ -10,9 +10,8 @@ def using_unshift(bouroughs_in_nyc, new_neighborhood)
   bouroughs_in_nyc.unshift(new_neighborhood)
 end 
 
-def using_pop()
+def using_pop(bouroughs_in_nyc)
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
-  new_neighborhood = bouroughs_in_nyc.pop
-  
+  bouroughs_in_nyc.pop
 end 
   
